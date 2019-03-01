@@ -1,2 +1,2 @@
 # project
-project reposi
+project repository for git hub
